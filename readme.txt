@@ -33,8 +33,7 @@ Yes. The prompt box appears fixed to the bottom of the mobile browser window.
 == Screenshots ==
 
 1. Customize your call to action and choose light or dark theme
-2. An example prompt box
-3. Prompt box on mobile
+2. An example prompt box on mobile and desktop
 
 == Changelog ==
 
