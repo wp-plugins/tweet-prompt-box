@@ -91,8 +91,8 @@ function tweet_prompt_box_create_tweet() {
 
 	$tweet_link = 'https://twitter.com/intent/tweet?url=' . urlencode($permalink) . '&text=' . $tweet_link_text;
 
-	if ( get_option( 'tweetable_selections_username' ) != '' ) {
-		$username = get_option( 'tweetable_selections_username' );
+	if ( get_option( 'tweet_prompt_box_username' ) != '' ) {
+		$username = get_option( 'tweet_prompt_box_username' );
 		$tweet_link .= '&via=' . $username;
 	}
 

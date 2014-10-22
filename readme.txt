@@ -3,7 +3,7 @@ Contributors: danhauk
 Tags: twitter, share, tweet, content, prompt, box
 Requires at least: 2.9.0
 Tested up to: 4.0
-Version: 0.1
+Version: 0.1.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -37,6 +37,14 @@ Yes. The prompt box appears fixed to the bottom of the mobile browser window.
 
 == Changelog ==
 
+= 0.1.1 =
+* Bug fix: default tweet not showing “via @username”
+
 = 0.1 =
 
 Hello world! Initial version.
+
+== Upgrade Notice ==
+
+= 0.1.1 =
+This version fixes a bug where the configured username was not included in the tweet.
