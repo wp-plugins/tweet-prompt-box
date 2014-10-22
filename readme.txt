@@ -2,7 +2,7 @@
 Contributors: danhauk
 Tags: twitter, share, tweet, content, prompt, box
 Requires at least: 2.9.0
-Tested up to: 3.7.1
+Tested up to: 4.0
 Version: 0.1
 Stable tag: trunk
 License: GPLv2 or later
