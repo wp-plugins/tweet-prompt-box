@@ -1,6 +1,6 @@
 === Tweet Prompt Box ===
 Contributors: danhauk
-Tags: twitter, share, tweet, content, prompt
+Tags: twitter, share, tweet, content, prompt, box
 Requires at least: 2.9.0
 Tested up to: 3.7.1
 Version: 0.1
@@ -20,8 +20,9 @@ When a reader scrolls down while reading your post, a small box appears in the b
 
 1. Upload the `tweet-prompt-box` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Readers will now see a call to action to share your content
-4. Sit back and watch your traffic increase through increased sharing
+3. Customize your call to action and choose a theme at `Settings > Tweet Prompt Box`
+4. Readers will now see a call to action to share your content
+5. Sit back and watch your traffic increase through increased sharing
 
 == Frequently Asked Questions ==
 
