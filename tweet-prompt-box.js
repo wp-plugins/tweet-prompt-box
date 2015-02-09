@@ -1,12 +1,12 @@
 jQuery(function($) {
-	var body_height = $(window).outerHeight();
+	var document_height = $(document).outerHeight();
 	var window_scroll;
 	var tweet_prompt_box = $('#tweet-prompt-box');
 
 	$(window).scroll(function() {
 		window_scroll = $(window).scrollTop();
 
-		if ( window_scroll > body_height / 2 ) {
+		if ( window_scroll > document_height / 2 ) {
 			tweet_prompt_box.not( '.closed' ).fadeIn();
 		}
 	});

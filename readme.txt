@@ -2,8 +2,8 @@
 Contributors: danhauk
 Tags: twitter, share, tweet, content, prompt, box
 Requires at least: 2.9.0
-Tested up to: 4.0
-Version: 0.1.1
+Tested up to: 4.1
+Version: 0.1.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -36,6 +36,9 @@ Yes. The prompt box appears fixed to the bottom of the mobile browser window.
 2. An example prompt box on mobile and desktop
 
 == Changelog ==
+
+= 0.1.2 =
+* Bug fix: the prompt box now appears after half the page has been scrolled
 
 = 0.1.1 =
 * Bug fix: default tweet not showing “via @username”
